@@ -4,7 +4,7 @@ The Ant Colony Optimization (ACO) meta-heuristic is a popular technique for solv
 
 Note : There is a brief presentation on Ant Colony Optimization in the ACO.pdf.
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/25eaed392334944c71f549e8dc8dc3d1fd844e45a9f4937d.png)
+![](images/ACO.png)
 
 ---
 
