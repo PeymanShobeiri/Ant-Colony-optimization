@@ -22,6 +22,9 @@ Note : There is a brief presentation on Ant Colony Optimization in the ACO.pdf.
 
 > It is the same as the 0-1 knapsack problem, but here you can choose 1, 2, 3, … of the same object.
 
+*   **Quadratic assignment problem**
+
+> There are a set of n facilities and a set of n locations. For each pair of locations, a distance is specified and for each pair of facilities a weight or flow is specified. The problem is to assign all facilities to different locations with the goal of minimizing the sum of the distances multiplied by the corresponding flows.
 ---
 
 ### In each file you find :
